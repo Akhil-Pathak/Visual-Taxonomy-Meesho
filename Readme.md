@@ -45,6 +45,12 @@
 
 ### Running training of models 
 
+- Ensure you have ran the preprocessor code and the outputs are generated in `./Preprocessor-FillNA/output`.
+
+- Run individual `.ipynb` notebooks for each category.
+
+- The code will save the models in the `./Models/<category>` folder for each category.
+
 ### Running inference
 
 - To run inference, please ensure all the models are downloaded from google drive and placed in the correct folder.
